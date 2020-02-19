@@ -4,5 +4,5 @@ main.remove();
 
 let newHeader = document.createElement('h1');
 newHeader.setAttribute('id','victory');
-newHeader.innerText = 'is the champion';
+newHeader.innerText = "YOUR-NAME is the champion";
 document.body.appendChild(newHeader);
