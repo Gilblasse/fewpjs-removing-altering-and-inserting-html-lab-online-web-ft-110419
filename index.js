@@ -5,4 +5,4 @@ main.remove();
 let newHeader = document.createElement('h1');
 newHeader.setAttribute('id','victory');
 // newHeader.innerText = "Emmanuel is the champion";
-// document.body.appendChild(newHeader);
+document.body.appendChild(newHeader);
